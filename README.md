@@ -1,5 +1,5 @@
 # Hi, I'm Paul
-IT and security professional breaking into cloud and identity security through hands-on, self-directed labs — built around skills that actually appear in 2026 job postings, across both AWS and Microsoft's security stack.
+IT and security professional breaking into cloud and identity security through hands-on, self-directed labs.
 
 ---
 
@@ -25,4 +25,4 @@ Microsoft Entra ID · Conditional Access · PIM · Microsoft Defender (Cloud App
 ---
 
 ## Why These Projects
-Each project maps directly to skills appearing in real security analyst, cloud security, and DevSecOps job postings. The roadmap spans identity governance and Microsoft 365 security (Entra ID, Conditional Access, PIM, Defender, Sentinel, Intune), AWS IAM security and threat detection, IaC scanning and CI/CD pipeline security, container security, and application security — built for dual-cloud, dual-ecosystem coverage. Research conducted against 2026 job market demand.
+Each project maps directly to skills appearing in real security analyst, cloud security, and cybersecurity job postings. The roadmap spans identity governance and Microsoft 365 security (Entra ID, Conditional Access, PIM, Defender, Sentinel, Intune), AWS IAM security and threat detection, IaC scanning and CI/CD pipeline security, container security, and application security — built for dual-cloud, dual-ecosystem coverage. Research conducted against 2026 job market demand.
