@@ -1,5 +1,5 @@
 # Hi, I'm Paul
-IT and security professional breaking into cloud and identity security through hands-on, self-directed labs.
+Cybersecurity and cloud security enthusiast. Just trying to see how things work.
 
 ---
 
