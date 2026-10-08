@@ -11,7 +11,7 @@ Cybersecurity and cloud security enthusiast. Just trying to see how things work.
 | 3 | [Infrastructure-as-Code Security Scanner](https://github.com/paulhwangsec/iac-security-scanner) | Terraform, Checkov, Trivy, GitHub Actions | ✅ Complete |
 | 4 | [Entra ID Identity & Threat Detection Lab](https://github.com/paulhwangsec/entra-id-threat-detection-lab) | Entra ID, Conditional Access, PIM, Defender for Cloud Apps, Sentinel, KQL, Intune, PowerShell | ✅ Complete |
 | 4.1 | [Conditional Access Audit Tool](https://github.com/paulhwangsec/entra-id-labs/tree/main/conditional-access-audit) | Conditional Access, Microsoft Graph PowerShell SDK, Least-Privilege Graph Scopes, Break-Glass Validation, PowerShell | ✅ Complete |
-| 4.2 | Entra ID Provisioning Maturity | Dynamic Groups, Group-Based Licensing, Entitlement Management, Access Reviews, PowerShell | 🔄 In progress |
+| 4.2 | [Entra ID Provisioning Maturity](https://github.com/paulhwangsec/entra-id-labs/tree/main/provisioning-maturity) | Dynamic Groups, Group-Based Licensing, Entitlement Management, Access Reviews, PowerShell | ✅ Complete |
 | 4.5 | Threat Modeling | Risk Assessment, Threat Modeling | 🔲 Planned |
 | 5 | Kubernetes Security Lab | K8s, RBAC, kube-bench, Falco, Container Security | 🔲 Planned |
 | 6 | Serverless App Security Review + WAF | Lambda, API Gateway, AWS WAF, AppSec | 🔲 Planned |
